@@ -17,13 +17,14 @@ void int_swapping(int *a, int *b)
 	*b = hold; /*takes a value*/
 }
 
+
 /**
  * bubble_sort - function that is used to sort an array og ints
  * in ascending order
  *
  * @array: this is an array containing the ints to be
  * sorted
- * @size: this is size of array and is to be printed after each 
+ * @size: this is size of array and is to be printed after each
  * size is made
  */
 
