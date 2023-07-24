@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * enum  - creating enumaration to represent boolean
+ * enum bool - creating enumaration to represent boolean
  * data types
 */
 
