@@ -7,6 +7,8 @@
 /**
  * enum bool - creating enumaration to represent boolean
  * data types
+ * @false: first enumerator
+ * @true: second enumerator
 */
 
 typedef enum bool
